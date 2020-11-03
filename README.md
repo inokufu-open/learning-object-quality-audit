@@ -6,4 +6,4 @@ The term __Learning Object__ is used here with the broadest meaning to encompass
 
 If you want to contribute and/or help us build this framework, send us a message at contact@inokufu.com
 
-![Educational stair](https://github.com/InokufuOpen/Learning-Object-Quality-Audit/blob/main/yang-miao-IazFaFYSCfY-unsplash-1024x683.jpg)
+![Educational stair](https://github.com/InokufuOpen/Learning-Object-Quality-Audit/blob/main/picture/yang-miao-IazFaFYSCfY-unsplash-1024x683.jpg)
