@@ -18,9 +18,9 @@ If you want to contribute and/or help us build this framework, send us a message
 ### Here are some prérequiste.
 ## First com the Learning Goal ! and then the type of LO.
 ### Learning Goal Stair's : our take on bloom taxonomy  
- 
- 
- 
+\
+\
+  
 # index (of the orther file in the github)
 
 - Learning Object (LO) Type and description
