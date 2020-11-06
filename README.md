@@ -8,17 +8,17 @@ If you want to contribute and/or help us build this framework, send us a message
 
 ![Educational stair](https://github.com/InokufuOpen/Learning-Object-Quality-Audit/blob/main/picture/yang-miao-IazFaFYSCfY-unsplash-1024x683.jpg)
 
-#Overview :
+# Overview :
 
-##What's a LO ?
-##How to asset EVERY LO ?
-##Here are some prérequiste.
-##First com the Learning Goal ! and then the type of LO.
-##Learning Goal Stair's : our take on bloom taxonomy
+## What's a LO ?
+## How to asset EVERY LO ?
+## Here are some prérequiste.
+## First com the Learning Goal ! and then the type of LO.
+## Learning Goal Stair's : our take on bloom taxonomy
 
 
 
-#index (of the orther file in the github)
+# index (of the orther file in the github)
 
 - Learning Object (LO) Type and description
 - Learning Goal (LG) type and descirption
