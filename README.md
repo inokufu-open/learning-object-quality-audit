@@ -13,17 +13,26 @@ If you want to contribute and/or help us build this framework, send us a message
 
 # Overview :
 
-## What's a LO ?
+## What's a LO (learning object) ?
 ## How to asset EVERY LO ?
-### Here are some prérequiste.
-## First com the Learning Goal ! and then the type of LO.
-### Learning Goal Stair's : our take on bloom taxonomy  
-\
+### Here are some prerequisite.
+It's all about change
+## First com the LG (Learning Goal) ! and then the type of LO.
+### Learning Goal Stair's : our take on bloom taxonomy
+Discover  Understand  Do
 \
   
-# index (of the orther file in the github)
+# index (of the other file in the github)
 
-- Learning Object (LO) Type and description
-- Learning Goal (LG) type and descirption
-- Universal LO Quality criteria by LG
-- Specifique LO Quality Criteria by LG
+### Learning Object (LO) Type and description
+### Learning Goal (LG) type and description
+### Universal LO Quality criteria by LG
+What are the quality criteria we are looking for, for each Learning Goal/
+### Specifique LO Quality Criteria by LG
+how each quality criteria apply to each lo type/
+### LO expertise level
+### LO User satisfaction
+How and When it's usefull or not/
+### LO Skill Area (Domcomp)
+### Other LO information
+time.../
