@@ -19,7 +19,8 @@ If you want to contribute and/or help us build this framework, send us a message
 It's all about change
 ## First com the LG (Learning Goal) ! and then the type of LO.
 ### Learning Goal Stair's : our take on bloom taxonomy
-Discover  Understand  Do
+Discover  Understand  Do\
+\
 \
   
 # index (of the other file in the github)
