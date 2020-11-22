@@ -68,13 +68,23 @@ To practice, or simulate practice. This activity takes you into the concrete, kn
 
 ### Learning Object (LO) Type and description
 ### Learning Goal (LG) type and description
-### Universal LO Quality criteria by LG
-What are the quality criteria we are looking for, for each Learning Goal
+### Universal LO Quality criteria 
+Description of quality criteria we are looking for in every LO. 
+https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOqualitycriteria.md
+
+
 ### Specifique LO Quality Criteria by LG
 how each quality criteria apply to each lo type
+https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOspecificqualitycriteria.md
+
 ### LO expertise level
+https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOexpertiselevel.md
+
+### Other LO information
+https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOotheritem.md
+
 ### LO User satisfaction
 How and When it's usefull or not
 ### LO Skill Area (Domcomp)
-### Other LO information
-time...
+
+
