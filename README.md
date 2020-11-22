@@ -14,7 +14,7 @@ If you want to contribute and/or help us build this framework, send us a message
 # Overview :
 
 ## What's a LO (learning object) ?
-The term __Learning Object__ is used here with the broadest meaning to encompass any educational resource, activity and their combination to learn a skill/competency.
+The term __Learning Object__ is used here with the broadest meaning to encompass any educational resource, activity and their combination to learn a skill/competency.\
 *WIP*
 
 ## How to asset EVERY LO ?
@@ -45,7 +45,7 @@ Exemple 1 : At the end of the video, the learner can explain the key element of 
 Exemple 2 : At the end of the MOOC, the learner can manage conflict in his workplace.
 
 ### Learning Goal Stairs : our take on bloom taxonomy
-“Bloom’s taxonomy of Learning objective” (and all the various versions that exist in the field) are essential tools to have a good “Learning Goal”. https://en.wikipedia.org/wiki/Bloom%27s_taxonomy\
+“Bloom’s taxonomy of Learning objective” (and all the various versions that exist in the field) are essential tools to have a good “Learning Goal”. https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
 Most of this taxonomy is for “traditional” training so we have our version :  **the “learning goal stairs” that are aimed to be useful for every LO type.\**
 
 **1/ Discover :** 
@@ -60,7 +60,7 @@ To practice, or simulate practice. This activity takes you into the concrete, kn
 
 ## Differences and links between LO and teaching methods
 ### The five teaching methods category, strengths and weaknesses
-![teaching method category](https://github.com/inokufu-open/learning-object-quality-audit/blob/main/picture/fiveteachingmethods.png)
+![teaching method category](https://github.com/inokufu-open/learning-object-quality-audit/blob/main/picture/fiveteachingmethods.png)\
 *WIP*
 
   
