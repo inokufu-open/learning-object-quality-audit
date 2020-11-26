@@ -1,5 +1,5 @@
 
-**DOMAIN OF COMPETENCY**
+## Resource about DOMAIN OF COMPETENCY (DOMCOMP)
 
 **1** Academic Medicine is the official, peer-reviewed journal of the Association of American Medical Colleges. The journal serves as an international forum for the exchange of ideas, information, and strategies to address the major challenges facing the academic medicine community as it strives to carry out its missions in the public interest. The journal’s areas of focus include: education and training issues; health and science policy; institutional policy, management, and values; research practice; and clinical practice in academic settings.
 
@@ -28,7 +28,7 @@ https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale
 **6** Based on the work on education from the primary to K12 from SINACOL (The Aurora Institute, an international non-profit ), the project of INACOL CompetencyWorks and 100 leaders in competency education, the article explain how they develop a working definition of competency-based education which encompasses 5 elements.
 https://www.gettingsmart.com/2017/12/competency-based-education-definitions-and-difference-makers/
 
-**EDUCATIONAL QUALITY**
+## Resource about EDUCATIONAL QUALITY
 
 **1** The description of the Common European Framework for you language level. There are 6 CEFR level.
 https://www.aventure-linguistique.ch/en/language-level/
