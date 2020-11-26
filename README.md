@@ -64,8 +64,8 @@ To practice, or simulate practice. This activity takes you into the concrete, kn
 *WIP*
 
   
-# reference link and ressource
-https://github.com/inokufu-open/learning-object-quality-audit/blob/main/educationalResource.md
+# Index
+
 
 ### Learning Object (LO) Type and description
 ### Learning Goal (LG) type and description
@@ -84,7 +84,8 @@ https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOexpert
 ### Other LO information
 https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOotheritem.md
 
-### 
+### reference link and ressource
+https://github.com/inokufu-open/learning-object-quality-audit/blob/main/educationalResource.md
 
 ### LO User satisfaction
 How and When it's usefull or not
