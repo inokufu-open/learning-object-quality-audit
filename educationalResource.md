@@ -48,7 +48,7 @@ The study explore a learning-based approach for evaluating learning object. It f
 https://www.researchgate.net/profile/Robin_Kay/publication/228623072_Evaluating_the_Learning_in_Learning_Objects/links/0fcfd508e70fae7a23000000/Evaluating-the-Learning-in-Learning-Objects.pdf
 
 **4**
-"Margaret Haughey of the University of Alberta and Bill Muirhead of the University of Ontario Institute of Technology offers a study on the assessment of learning objects in the context of teaching in the K-12 sector. They ""describe the developments in the K-12 sector, the arguments around LO characteristics and the development of an assessment profile"". The main goal of the analyses is to ""identifying characteristics of importance for the teachers"". 
+Margaret Haughey of the University of Alberta and Bill Muirhead of the University of Ontario Institute of Technology offers a study on the assessment of learning objects in the context of teaching in the K-12 sector. They "describe the developments in the K-12 sector, the arguments around LO characteristics and the development of an assessment profile". The main goal of the analyses is to "identifying characteristics of importance for the teachers". 
 They list 14 criteria divided into 5 categories : 
 Integrity
 Usability
