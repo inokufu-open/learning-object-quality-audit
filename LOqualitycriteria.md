@@ -1,5 +1,5 @@
+## LEARNING GOAL
 
-##LEARNING GOAL
 
 **curriculum**	
 to train you in a skill in a complete way, by combining the stages of Discovery, Understanding and doing. At the end of the road, you are a Pro.
@@ -14,7 +14,7 @@ to practice, or simulate practice. This activity takes you into the concrete to 
 to get an idea, about the topic ,identify the key point, the issues, the pleasures and the difficulties of the field, at this end of the road you are able to talk about and follow the new about it.
 
 
-##PRIMARY QUALITY CRITERIA
+## PRIMARY QUALITY CRITERIA
 
 **gap**
 does the source find a way to encourage the learner to come back later to a same theme? Within the source itself (theme recurred from one week to the next for a
@@ -51,7 +51,7 @@ the LO  is understandable.
 the  LO makes the learner eager to know more and continue is learning.
 
 
-##VARIOUS QUALITY CRITERIA
+## VARIOUS QUALITY CRITERIA
 
 **EMOTION** : The LO use human feeling and emotion  to help memorise or understand the topic.
 
