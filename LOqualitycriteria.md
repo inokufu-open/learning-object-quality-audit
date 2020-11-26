@@ -53,20 +53,40 @@ the  LO makes the learn, eager to know more and continue is learning.
 
 **VARIOUS QUALITY CRITERIA**
 
-EMOTION : The LO use human feeling and emotion  to help memorise or understand the topic.
+**EMOTION** : The LO use human feeling and emotion  to help memorise or understand the topic.
 
-HUMOR :The LO use joke or is funny.
+**HUMOR** :The LO use joke or is funny.
 
-ACADEMIC : The LO is offered by an university or a recognized school and is part of a training course approve by expert.
+**ACADEMIC** : The LO is offered by an university or a recognized school and is part of a training course approve by expert.
 
-GAMIFICATION : The LO use gamefication technique (xp, leveling, reward, token ect...).
+**GAMIFICATION** : The LO use gamefication technique (xp, leveling, reward, token ect...).
 
-SHARE : The LO is based on sharing experience on an apprenticeship, a profession, etc. It pushes the learner to exchange, to discuss with other human beings.
+**SHARE** : The LO is based on sharing experience on an apprenticeship, a profession, etc. It pushes the learner to exchange, to discuss with other human beings.
 
-PLAYFUL : The LO use game or playfull activity
+**PLAYFUL** : The LO use game or playfull activity
 
-TESTIMONY : The LO is from a speaker who talk about him, his experience, in a human relationship more than theoretical
+**TESTIMONY** : The LO is from a speaker who talk about him, his experience, in a human relationship more than theoretical
 
-EXAMPLE : saying about a LO that it helps the learner to understand something by showing them how it is used.
+**EXAMPLE** : saying about a LO that it helps the learner to understand something by showing them how it is used.
 
-TARGETED : 
+**TARGETED** : saying about a LO that it is specialy well designed for a particular group of people a target
+
+**PERFORMANCE** : saying about an LO that it is distinguished by the quality of its execution (e.g. video editing, editorial design, etc.)
+
+**MUSIC** : saying about an LO that it contains music
+
+**ENVIRONMENT** : saying about an LO that it is distinguished by the atmosphere in which the learner evolves.
+
+**LANGUAGE LEVEL** : saying about an LO that it is characterized by a language level adapted to the target and the intended learning.
+
+**TEXT OVERLAY** : saying that an LO that it contains text overlays which help to understand and memorize
+
+**GRAPHIC IMAGE OVERLAY** : saying that an LO that it contains graphic and image overlay which help to understand and memorize
+
+**NARRATION** : saying that an LO that it has a clear, logical and structured telling
+
+**TYPICAL** : saying that an LO that it shows all the characteristics that you would usually expect from a particular group of things. (in work domcomp)
+
+
+
+
