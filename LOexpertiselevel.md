@@ -1,9 +1,4 @@
-**LEVEL**
-
-**difficulty**
-the level of difficulty of learning or practicing
-
-
+## LEVEL
 **beginner** 
 the LO is designed for people who are just starting to learn and have not yet acquired the basic lessons.
 
@@ -12,6 +7,12 @@ the LO is designed for people who have mastered the basics of the subject of stu
 
 **expert**
 the LO is designed for people who already have indepth skills on the subject and want to improve themselves.
+
+
+## Other 
+
+**difficulty**
+the level of difficulty of learning or practicing
 
 **kid**
 The LO is suitable for a young audience and offers content adapted to the understanding of the target.
