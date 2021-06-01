@@ -1,6 +1,6 @@
 # Learning Object Quality Audit
 
-The objective of the Learning Object Quality Audit project (aka project LOQA) is to develop an opensource framework that can be used to universally evaluate the quality of any Learning Object.
+The objective of the Learning Object Quality Audit project (aka project LOQA) is to develop an opensource framework that can be used to universally assess the quality of any Learning Object.
 
 The term __Learning Object__ is used here with the broadest meaning to encompass any educational resource, activity and their combination to learn a skill/competency.
 
@@ -13,11 +13,11 @@ If you want to contribute and/or help us build this framework, send us a message
 
 # Overview :
 
-## What's a LO (learning object) ?
+## What's a Learning object (LO) ?
 The term __Learning Object__ is used here with the broadest meaning to encompass any educational resource, activity and their combination to learn a skill/competency.\
 *WIP*
 
-## How to asset EVERY LO ?
+## How to assess EVERY LO ?
 
 ### 1/ It's all about change
 When we talk about learning, we have to remember that it’s not so much about knowledge but about change.\ 
@@ -36,7 +36,7 @@ For example, we know that is crucial to practice and to be active in learning. H
 So we have to assess them, at their level, without dreaming but with benevolency. And it’s possible with the help of “Learning Goals” and “Bloom’s taxonomy”.
 
 
-## First com the LG (Learning Goal)
+## Identifying the Learning Goal (LG) of each Learning object (LO)
 So every LO is a road to a potential change, to assess the road, we need to know where it goes.\
 **It’s the rule number one** : For every LO, there is a LG and we can assess it only in relationship with the LG.\
 There is a magical spell for this: 
@@ -74,7 +74,7 @@ Description of quality criteria we are looking for in every LO.
 https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOqualitycriteria.md
 
 
-### Specifique LO Quality Criteria by LG
+### Specific LO Quality Criteria by LG
 how each quality criteria apply to each lo type
 https://github.com/inokufu-open/learning-object-quality-audit/blob/main/LOspecificqualitycriteria.md
 
@@ -89,6 +89,7 @@ https://github.com/inokufu-open/learning-object-quality-audit/blob/main/educatio
 
 ### LO User satisfaction
 How and When it's usefull or not
-### LO Skill Area (Domcomp)
+
+### Domains of Competency (Domcomp)
 
 
